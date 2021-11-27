@@ -32,7 +32,7 @@ function divide(a, b) {
 }
 
 function multiply(a, b) {
-  return;
+  return a * b;
 }
 
 // The following is required to make unit tests work. Please ignore it.
